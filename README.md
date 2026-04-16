@@ -25,7 +25,6 @@ This design makes it easy to verify the full result with online tools while stil
 - Settings screen with a simple algorithm structure explanation
 - Direct verification link to Devglan:
   [HMAC SHA256 Online Tool](https://www.devglan.com/online-tools/hmac-sha256-online)
-- Shared visual identity with the custom `H` app logo
 
 ## How It Works
 
